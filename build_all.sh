@@ -23,10 +23,10 @@ f_build
 cd ../rocm-cmake
 f_build
 
-cd ../rocm-comgr
+cd ../rocm-device-libs
 f_build
 
-cd ../rocm-device-libs
+cd ../rocm-comgr
 f_build
 
 cd ../rocm-opencl-runtime
